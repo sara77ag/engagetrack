@@ -1,0 +1,8 @@
+{
+  "id": 123456,
+  "name": "repo",
+  "html_url": "https://github.com/owner/repo",
+  "description": "Team project for ASE",
+  "default_branch": "main",
+  "private": false
+}
